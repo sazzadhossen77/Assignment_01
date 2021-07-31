@@ -1,0 +1,117 @@
+body{
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.name {
+    color: rgb(255, 153, 0);
+    font-family: 700;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 15px 25px;
+    color:white;
+    font-weight: 700;
+    border-radius:45px;
+    box-shadow: lightSalmon 10px 10px 40px;
+    
+    
+}
+
+p{
+    color:gray;
+    margin-bottom: 40px;
+    
+}
+.about{
+    color:rgb(78, 77, 77);
+    font-weight: 700;
+    margin-top: 60px;
+}
+
+.mar-p{
+    color:rgb(43, 42, 42);
+    font-weight: 700;
+    margin-bottom: 130px;
+}
+h1{
+    font-size:40px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+.helf-width{
+    width:40%;
+     float:left; 
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-bottom: 2%;
+}
+.helf-width img{
+    width:100%;
+    height: 495px;
+}
+.top-banner{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+     
+    
+}
+.middle{
+    background-image: url(images/shapes/7.png);
+    /* background-repeat: no-repeat; */
+    
+    
+}
+section{
+    height: 500px;
+    margin-bottom: 6%;
+}
+.onehelf-width{
+    width:25%;
+     float:left; 
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-bottom: 2%;
+}
+.single-recipe{
+    box-shadow: gray 10px 10px 40px;
+    border-radius:20px;
+    height: 80%;
+    font-weight: 700;
+}
+.single-width{
+    margin-top:5%;
+    margin-right: 7%;
+    margin-bottom: 5%;
+    box-shadow: gray 10px 10px 40px;
+    border-radius: 20px;
+    height: 50%;
+}
+.single-width img{
+    width: 100%;
+    height: 100%;
+}
+.about-recipe{
+    text-align:center;
+    margin-left: 20%;
+    margin-right:20%;
+}
+.subscribe{
+    box-shadow: gray 10px 10px 40px;
+    border-radius:20px;
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 2%;
+    margin-bottom: 2%;
+    height: 200px;
+}
+.footer{
+    height: 200px;
+    background-color: black;
+    color:rgb(253, 250, 250);
+    text-align:center;
+    margin-bottom: 0;
+}
